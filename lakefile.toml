@@ -1,0 +1,10 @@
+name = "linteger"
+version = "0.1.0"
+defaultTargets = ["linteger"]
+
+[[lean_lib]]
+name = "Linteger"
+
+[[lean_exe]]
+name = "linteger"
+root = "Main"
